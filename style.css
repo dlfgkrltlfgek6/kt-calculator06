@@ -1,0 +1,52 @@
+body{
+    font-size: 25px;
+    line-height: 4.0;
+    text-align: center;
+}
+
+#button {
+    font-size: 30px;
+}
+
+#textForm {
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#resultForm1 {
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#resultForm2 {
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#resultForm3 {
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#resultForm4 {
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#resultForm5 {
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.container{
+    background-image: url(369.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
